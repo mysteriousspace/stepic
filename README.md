@@ -1,2 +1,2 @@
 # stepic
-Test repository
+Test repository my work Automation Testing Python and Selenium
